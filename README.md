@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on oodles Technologies Pvt Ltd [oodleslab](https://www.oodles.com/)
 
-- 🌱 I’m currently learning **Azure,Kubernetes,Terraform,Ansible**
+- 🌱 I’m currently working on tools **Docker,Docker-compose,git,Jenkins,Prometheus and Grafana,Kubernetes,Ansible,AWS**
 
 - 👨‍💻 All of my projects are available at [github-account](github-account)
 
