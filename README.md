@@ -1,10 +1,8 @@
 ## Hi I'm Bineet Vishwakarma 👋
 <h1 align="center">Hi 👋, I'm Bineet Vishwakarma</h1>
 <h3 align="center">A passionate Devops engineer from India</h3>
-<img align="right" alt="coding" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2QgTkjjrmWmpRzxnjtBiKJ&ust=1723388089178000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCMrI7X6ocDFQAAAAAdAAAAABAv">
-
+<img align="right" alt="coding" width=400 src = "![image](https://github.com/user-attachments/assets/12ab61be-4447-477b-a946-1f0fce7f9730)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bineetvish&label=Profile%20views&color=0e75b6&style=flat" alt="bineetvish" /> </p>
-
 <p align="left"> <a href="https://twitter.com/bineet21" target="blank"><img src="https://img.shields.io/twitter/follow/bineet21?logo=twitter&style=for-the-badge" alt="bineet21" /></a> </p>
 
 - 🔭 I’m currently working on oodles Technologies Pvt Ltd [oodleslab](https://www.oodles.com/)
