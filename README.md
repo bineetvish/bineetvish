@@ -1,8 +1,3 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://www.canva.com/design/DAGNz8XwpO4/9NsSNK4KiJA1gm7VOdNZOw/edit?utm_content=DAGNz8XwpO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt=”my banner”>
-
-</p>
 <h1 align="center">Hi 👋, I'm Bineet Vishwakarma</h1>
 <h3 align="center">A passionate Devops engineer from India</h3>
 <img align="right" alt="coding" width=400 src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
