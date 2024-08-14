@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Bineet Vishwakarma</h1>
 <h3 align="center">A passionate Devops engineer from India</h3>
 <img align="right" alt="coding" width=400 src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
@@ -21,7 +22,8 @@
 - ⚡ Fun fact **💻 Fun Fact: Once automated my coffee machine with a Raspberry Pi—because why not bring DevOps to breakfast? ☕🤖**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">![White Minimalist Profile LinkedIn Banner (1)](https://github.com/user-attachments/assets/1d56f473-3d6a-4d69-9c96-3dadfd6d9e8a)
+
 <a href="https://twitter.com/bineet21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bineet21" height="30" width="40" /></a>
 <a href="https://instagram.com/bineetvishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bineetvishwakarma" height="30" width="40" /></a>
 </p>
